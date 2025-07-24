@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+resumeenv/
+
+# Common Python ignores
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore output folders
+uploads/
+outputs/
